@@ -4,7 +4,7 @@ Este projeto tem como objetivo analisar os dados de vendas de uma loja fictícia
 
 📑 Análise Inicial: Excel  
 📊 Dashboard: Power BI  
-📋 Dataset: Superstore Dataset - Kaggle ((https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
+📋 Dataset: Superstore Dataset - Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
 
 🛠 Ferramentas Utilizadas  
 ✅ Excel – Limpeza e análise inicial dos dados  
@@ -75,7 +75,7 @@ This project aims to analyze the sales data of a fictitious store to determine w
 📑 Initial Analysis: Excel  
 📊 Dashboard: Power BI  
 
-📋 Dataset: Superstore Dataset - Kaggle  
+📋 Dataset: Superstore Dataset - Kaggle (https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)  
 
 📈 Key Insights  
 ✅ Products & Categories  
