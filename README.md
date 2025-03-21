@@ -1,8 +1,8 @@
-📊 Superstore Sales Analysis
-📌 Sobre o Projeto
-Este projeto tem como objetivo analisar os dados de vendas de uma loja fictícia para entender quais produtos, regiões, categorias, subcategorias e segmentos de clientes devem ser priorizados ou evitados.
-📑 Análise Inicial: Excel
-📊 Dashboard: Power BI
+📊 Superstore Sales Analysis  
+📌 Sobre o Projeto  
+Este projeto tem como objetivo analisar os dados de vendas de uma loja fictícia para entender quais produtos, regiões, categorias, subcategorias e segmentos de clientes devem ser priorizados ou evitados.  
+📑 Análise Inicial: Excel  
+📊 Dashboard: Power BI  
 
 📋 Dataset: Superstore Dataset - Kaggle ((https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data)
 
